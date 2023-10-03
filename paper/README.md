@@ -599,10 +599,6 @@ Two-Factor authentication error page:
 **Dashboard page:**
 ![Dashboard page](./images/demo/demo_dashboard.png)
 
-**Demo video using two accounts concurrently:**
-[Showcase video](./videos/demo.mp4)
-
-
 ## 6. Known vulnerabilities
 
 Command to scan the project for vulnerabilities:
